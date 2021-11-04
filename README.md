@@ -40,6 +40,7 @@ object **Caio** {
 <code><img height="30" src="https://avatars.githubusercontent.com/u/4739304?s=200&v=4"></code>
 
 ## **GitHub Estatísticas**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio64x&theme=dracula&hide_langs_below=1" />
 </a>
