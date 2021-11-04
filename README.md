@@ -18,6 +18,16 @@ object **Caio** {
 }
 ```
 
+### Experiência de trabalho
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Analista de sistemas e técnico de apoio ao cliente ** \
+[**Expert Sistemas**](https://avatars.githubusercontent.com/u/84872221?s=200&v=4) • Full-time \
+Languages & Technologies: `C#`\
+<br/>
+
 ## **Linguagens:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
