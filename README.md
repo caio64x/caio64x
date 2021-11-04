@@ -52,11 +52,11 @@ Languages & Technologies: `C#`\
 
 ## **GitHub Estatísticas**
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<a href="https://github.com/Gurupreet">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio64x&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caio64x&show_icons=true&theme=dracula&line_height=27" alt="**CAIO RIBEIRO** github stats"/>
 </a>
 
