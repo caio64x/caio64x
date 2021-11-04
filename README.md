@@ -25,7 +25,7 @@ public class Caio {
 
 **Analista de sistemas e técnico de apoio ao cliente ** \
 [**Expert Sistemas**](https://expertsistemas.com/) • Full-time \
-Languages & Technologies: `C#`\
+Languages & Technologies: `C#` `MariaDB`\
 <br/>
 
 ## **Linguagens:**  
