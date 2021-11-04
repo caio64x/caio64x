@@ -21,10 +21,10 @@ object **Caio** {
 ### Experiência de trabalho
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/84872221?s=200&v=4.png"/>](https://expertsistemas.com/)
 
 **Analista de sistemas e técnico de apoio ao cliente ** \
-[**Expert Sistemas**](https://avatars.githubusercontent.com/u/84872221?s=200&v=4) • Full-time \
+[**Expert Sistemas**](https://expertsistemas.com/) • Full-time \
 Languages & Technologies: `C#`\
 <br/>
 
