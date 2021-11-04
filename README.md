@@ -4,7 +4,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 
 ```kotlin
 object **Caio** {
@@ -17,9 +17,9 @@ object **Caio** {
  val dataBases = listOf("MySql", "MariaDB", "SqlServer", "postgresql")
 }
 ```
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ### Experiência de trabalho
-In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/84872221?s=200&v=4.png"/>](https://expertsistemas.com/)
 
