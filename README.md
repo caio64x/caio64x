@@ -7,7 +7,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
+object **Caio** {
  val name = "CAIO RIBEIRO DE OLIVEIRA"
  val acknowledgements = "Engenharia da computação"
  
@@ -37,6 +37,7 @@ object **SEU NOME** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/4739304?s=200&v=4"></code>
 
 ## **GitHub Estatísticas**
 <a href="https://github.com/Gurupreet">
