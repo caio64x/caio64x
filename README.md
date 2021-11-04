@@ -12,7 +12,7 @@ public class Caio {
  public string acknowledgements = "Engenharia da computação";
  
  public string primarySkillset = "ALGUMAS HABILIDADES";
- public string[] languages ={"Csharp", "C++", "JavaScript", "React-Native"};
+ public string[] languages ={"Csharp", "C++", "C", "JavaScript", "React-Native"};
  public string[] tools = {"visual studio code", "git", "terminal"};
  public string[] dataBases = {"MySql", "MariaDB", "SqlServer", "postgresql", "firebase"};
 }
