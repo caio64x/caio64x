@@ -3,7 +3,7 @@
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="caio-ribeiro-79664817b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/caio-ribeiro-79664817b?trk=profile-badge">Caio Ribeiro</a></div>
-              
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>             
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
