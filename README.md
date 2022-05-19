@@ -4,6 +4,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="caio-ribeiro-79664817b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/caio-ribeiro-79664817b?trk=profile-badge">Caio Ribeiro</a></div>
+              
 
 
 ```csharp
