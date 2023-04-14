@@ -1,6 +1,6 @@
-### Olá devs 👋
+### Olá visitante 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -13,7 +13,7 @@ public class DEV {
  public string acknowledgements = "Engenharia da computação";
  
  public string primarySkillset = "HABILIDADES";
- public string[] languages ={"Csharp", "C++", "C", "JavaScript", "React-Native"};
+ public string[] languages ={"C#", "C++", "C", "JavaScript", "React-Native"};
  public string[] tools = {"visual studio code", "git", "visual studio", "Arduino IDE"};
  public string[] dataBases = {"MySql", "MariaDB", "SqlServer", "postgresql", "firebase"};
 }
